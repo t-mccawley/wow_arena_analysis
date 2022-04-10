@@ -1,0 +1,3088 @@
+{
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/pvp-region/1/pvp-season/3/pvp-leaderboard/2v2?namespace=dynamic-classic-us"
+      }
+    },
+    "season": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/pvp-region/1/pvp-season/3?namespace=dynamic-classic-us"
+      },
+      "id": 3
+    },
+    "name": "2v2",
+    "bracket": {
+      "id": 0,
+      "type": "ARENA_2v2"
+    },
+    "entries": [
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 1,
+        "rating": 2800,
+        "season_match_statistics": {
+          "played": 147,
+          "won": 114,
+          "lost": 33
+        },
+        "team": {
+          "name": "LOL a ret killed you",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 92,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/92?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 92
+              },
+              "color": {
+                "rgba": {
+                  "r": 237,
+                  "g": 140,
+                  "b": 69,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 1,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/1?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 1
+              },
+              "color": {
+                "rgba": {
+                  "r": 36,
+                  "g": 128,
+                  "b": 250,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 181,
+                  "g": 181,
+                  "b": 143,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Laynerz",
+                "id": 59082809,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 77,
+                "won": 65,
+                "lost": 12
+              },
+              "rating": 2693
+            },
+            {
+              "character": {
+                "name": "Mirlól",
+                "id": 61010008,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 123,
+                "won": 102,
+                "lost": 21
+              },
+              "rating": 2800
+            }
+          ],
+          "id": 1377009
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 2,
+        "rating": 2733,
+        "season_match_statistics": {
+          "played": 303,
+          "won": 232,
+          "lost": 71
+        },
+        "team": {
+          "name": "friendly fade",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 1,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/1?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 1
+              },
+              "color": {
+                "rgba": {
+                  "r": 248,
+                  "g": 245,
+                  "b": 255,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 5,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/5?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 5
+              },
+              "color": {
+                "rgba": {
+                  "r": 254,
+                  "g": 252,
+                  "b": 255,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 8,
+                  "g": 33,
+                  "b": 52,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Iconzx",
+                "id": 57992570,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 87,
+                "won": 62,
+                "lost": 25
+              },
+              "rating": 2641
+            },
+            {
+              "character": {
+                "name": "Icnz",
+                "id": 58004703,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 76,
+                "won": 47,
+                "lost": 29
+              },
+              "rating": 2204
+            }
+          ],
+          "id": 1633052
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 3,
+        "rating": 2714,
+        "season_match_statistics": {
+          "played": 102,
+          "won": 88,
+          "lost": 14
+        },
+        "team": {
+          "name": "kelvin and friend",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 16,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/16?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 16
+              },
+              "color": {
+                "rgba": {
+                  "r": 79,
+                  "g": 74,
+                  "b": 143,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 3,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/3?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 3
+              },
+              "color": {
+                "rgba": {
+                  "r": 242,
+                  "g": 74,
+                  "b": 102,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 48,
+                  "g": 41,
+                  "b": 97,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Snutzy",
+                "id": 18845214,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 5
+                }
+              },
+              "season_match_statistics": {
+                "played": 77,
+                "won": 67,
+                "lost": 10
+              },
+              "rating": 2671
+            }
+          ],
+          "id": 1653536
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 4,
+        "rating": 2708,
+        "season_match_statistics": {
+          "played": 166,
+          "won": 121,
+          "lost": 45
+        },
+        "team": {
+          "name": "blasting off",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 67,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/67?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 67
+              },
+              "color": {
+                "rgba": {
+                  "r": 142,
+                  "g": 142,
+                  "b": 148,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 3,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/3?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 3
+              },
+              "color": {
+                "rgba": {
+                  "r": 235,
+                  "g": 69,
+                  "b": 66,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 145,
+                  "g": 25,
+                  "b": 25,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Flaberz",
+                "id": 3116072,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 5
+                }
+              },
+              "season_match_statistics": {
+                "played": 140,
+                "won": 103,
+                "lost": 37
+              },
+              "rating": 2689
+            },
+            {
+              "character": {
+                "name": "Shapesx",
+                "id": 7363368,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 11
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 6
+                }
+              },
+              "season_match_statistics": {
+                "played": 166,
+                "won": 121,
+                "lost": 45
+              },
+              "rating": 2709
+            }
+          ],
+          "id": 1634259
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 5,
+        "rating": 2704,
+        "season_match_statistics": {
+          "played": 179,
+          "won": 137,
+          "lost": 42
+        },
+        "team": {
+          "name": "blacklisted",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 47,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/47?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 47
+              },
+              "color": {
+                "rgba": {
+                  "r": 130,
+                  "g": 51,
+                  "b": 206,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 3,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/3?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 3
+              },
+              "color": {
+                "rgba": {
+                  "r": 57,
+                  "g": 6,
+                  "b": 93,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Entrepid",
+                "id": 57860839,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                }
+              },
+              "season_match_statistics": {
+                "played": 7,
+                "won": 7,
+                "lost": 0
+              },
+              "rating": 1580
+            },
+            {
+              "character": {
+                "name": "Piecezed",
+                "id": 57863734,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                }
+              },
+              "season_match_statistics": {
+                "played": 179,
+                "won": 137,
+                "lost": 42
+              },
+              "rating": 2724
+            },
+            {
+              "character": {
+                "name": "Intreppi",
+                "id": 58699275,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 130,
+                "won": 95,
+                "lost": 35
+              },
+              "rating": 2690
+            }
+          ],
+          "id": 1224148
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 6,
+        "rating": 2701,
+        "season_match_statistics": {
+          "played": 266,
+          "won": 178,
+          "lost": 88
+        },
+        "team": {
+          "name": "how to get what you want",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 68,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/68?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 68
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 1,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/1?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 1
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Icnz",
+                "id": 49824101,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 2
+                }
+              },
+              "season_match_statistics": {
+                "played": 186,
+                "won": 127,
+                "lost": 59
+              },
+              "rating": 2698
+            },
+            {
+              "character": {
+                "name": "Pinkrangerz",
+                "id": 51738159,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 11
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 6
+                }
+              },
+              "season_match_statistics": {
+                "played": 41,
+                "won": 31,
+                "lost": 10
+              },
+              "rating": 2160
+            }
+          ],
+          "id": 1339270
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 7,
+        "rating": 2672,
+        "season_match_statistics": {
+          "played": 152,
+          "won": 127,
+          "lost": 25
+        },
+        "team": {
+          "name": "wehdwyedqwdnqwdqd",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 77,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/77?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 77
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 6,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/6?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 6
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Jozushka",
+                "id": 59144017,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 3
+                }
+              },
+              "season_match_statistics": {
+                "played": 152,
+                "won": 127,
+                "lost": 25
+              },
+              "rating": 2672
+            },
+            {
+              "character": {
+                "name": "Avizura",
+                "id": 61273442,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 152,
+                "won": 127,
+                "lost": 25
+              },
+              "rating": 2672
+            }
+          ],
+          "id": 1657412
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 8,
+        "rating": 2667,
+        "season_match_statistics": {
+          "played": 163,
+          "won": 140,
+          "lost": 23
+        },
+        "team": {
+          "name": "NA ladder chalked af",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 18,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/18?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 18
+              },
+              "color": {
+                "rgba": {
+                  "r": 89,
+                  "g": 120,
+                  "b": 48,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 1,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/1?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 1
+              },
+              "color": {
+                "rgba": {
+                  "r": 23,
+                  "g": 212,
+                  "b": 209,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 148,
+                  "g": 46,
+                  "b": 87,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Jaelaw",
+                "id": 6070332,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 6
+                }
+              },
+              "season_match_statistics": {
+                "played": 9,
+                "won": 7,
+                "lost": 2
+              },
+              "rating": 1599
+            }
+          ],
+          "id": 857001
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 8,
+        "rating": 2667,
+        "season_match_statistics": {
+          "played": 255,
+          "won": 214,
+          "lost": 41
+        },
+        "team": {
+          "name": "lic city",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 94,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/94?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 94
+              },
+              "color": {
+                "rgba": {
+                  "r": 172,
+                  "g": 41,
+                  "b": 191,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 156,
+                  "g": 28,
+                  "b": 191,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Nientonsoh",
+                "id": 58090190,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                }
+              },
+              "season_match_statistics": {
+                "played": 12,
+                "won": 9,
+                "lost": 3
+              },
+              "rating": 1648
+            },
+            {
+              "character": {
+                "name": "Magnuszx",
+                "id": 57833870,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 216,
+                "won": 176,
+                "lost": 40
+              },
+              "rating": 2680
+            }
+          ],
+          "id": 1224251
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 10,
+        "rating": 2662,
+        "season_match_statistics": {
+          "played": 241,
+          "won": 166,
+          "lost": 75
+        },
+        "team": {
+          "name": "ZSX",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 90,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/90?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 90
+              },
+              "color": {
+                "rgba": {
+                  "r": 166,
+                  "g": 0,
+                  "b": 120,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 3,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/3?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 3
+              },
+              "color": {
+                "rgba": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 231,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Sgf",
+                "id": 49677026,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 2
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 10
+                }
+              },
+              "season_match_statistics": {
+                "played": 241,
+                "won": 166,
+                "lost": 75
+              },
+              "rating": 2681
+            }
+          ],
+          "id": 1000026
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 11,
+        "rating": 2661,
+        "season_match_statistics": {
+          "played": 221,
+          "won": 149,
+          "lost": 72
+        },
+        "team": {
+          "name": "really big nose",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+            },
+            "id": 4647,
+            "slug": "grobbulus"
+          },
+          "crest": {
+            "emblem": {
+              "id": 45,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/45?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 45
+              },
+              "color": {
+                "rgba": {
+                  "r": 255,
+                  "g": 9,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 3,
+                  "g": 3,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Costahat",
+                "id": 34571879,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+                  },
+                  "id": 4647,
+                  "slug": "grobbulus"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 5
+                }
+              },
+              "season_match_statistics": {
+                "played": 221,
+                "won": 149,
+                "lost": 72
+              },
+              "rating": 2661
+            },
+            {
+              "character": {
+                "name": "Moosemeat",
+                "id": 34566614,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+                  },
+                  "id": 4647,
+                  "slug": "grobbulus"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 5
+                }
+              },
+              "season_match_statistics": {
+                "played": 221,
+                "won": 149,
+                "lost": 72
+              },
+              "rating": 2661
+            }
+          ],
+          "id": 1188051
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 12,
+        "rating": 2648,
+        "season_match_statistics": {
+          "played": 367,
+          "won": 232,
+          "lost": 135
+        },
+        "team": {
+          "name": "btc fiftyeight k march",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 70,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/70?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 70
+              },
+              "color": {
+                "rgba": {
+                  "r": 255,
+                  "g": 19,
+                  "b": 28,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 6,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/6?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 6
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Piosolverw",
+                "id": 59121174,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 56,
+                "won": 37,
+                "lost": 19
+              },
+              "rating": 2273
+            },
+            {
+              "character": {
+                "name": "Nydusw",
+                "id": 60539345,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 367,
+                "won": 232,
+                "lost": 135
+              },
+              "rating": 2655
+            }
+          ],
+          "id": 1633340
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 13,
+        "rating": 2639,
+        "season_match_statistics": {
+          "played": 167,
+          "won": 123,
+          "lost": 44
+        },
+        "team": {
+          "name": "why i orc",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 96,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/96?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 96
+              },
+              "color": {
+                "rgba": {
+                  "r": 250,
+                  "g": 250,
+                  "b": 255,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 6,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/6?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 6
+              },
+              "color": {
+                "rgba": {
+                  "r": 250,
+                  "g": 250,
+                  "b": 255,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Justwoo",
+                "id": 59077461,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 2
+                }
+              },
+              "season_match_statistics": {
+                "played": 167,
+                "won": 123,
+                "lost": 44
+              },
+              "rating": 2639
+            },
+            {
+              "character": {
+                "name": "Uglydruid",
+                "id": 59143959,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 6
+                }
+              },
+              "season_match_statistics": {
+                "played": 167,
+                "won": 123,
+                "lost": 44
+              },
+              "rating": 2639
+            }
+          ],
+          "id": 1331250
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 14,
+        "rating": 2625,
+        "season_match_statistics": {
+          "played": 297,
+          "won": 193,
+          "lost": 104
+        },
+        "team": {
+          "name": "season three week four",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 70,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/70?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 70
+              },
+              "color": {
+                "rgba": {
+                  "r": 214,
+                  "g": 176,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 3,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/3?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 3
+              },
+              "color": {
+                "rgba": {
+                  "r": 19,
+                  "g": 184,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 167,
+                  "g": 0,
+                  "b": 207,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Mattyxr",
+                "id": 54578415,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 241,
+                "won": 159,
+                "lost": 82
+              },
+              "rating": 2633
+            },
+            {
+              "character": {
+                "name": "Enigmagdkper",
+                "id": 57573707,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 40,
+                "won": 27,
+                "lost": 13
+              },
+              "rating": 2071
+            }
+          ],
+          "id": 1626683
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 15,
+        "rating": 2620,
+        "season_match_statistics": {
+          "played": 141,
+          "won": 93,
+          "lost": 48
+        },
+        "team": {
+          "name": "Dont look at me",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 77,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/77?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 77
+              },
+              "color": {
+                "rgba": {
+                  "r": 92,
+                  "g": 8,
+                  "b": 66,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 5,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/5?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 5
+              },
+              "color": {
+                "rgba": {
+                  "r": 66,
+                  "g": 94,
+                  "b": 204,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 69,
+                  "g": 224,
+                  "b": 110,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Faultless",
+                "id": 59228015,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                }
+              },
+              "season_match_statistics": {
+                "played": 0,
+                "won": 0,
+                "lost": 0
+              },
+              "rating": 1000
+            }
+          ],
+          "id": 1621459
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 16,
+        "rating": 2616,
+        "season_match_statistics": {
+          "played": 188,
+          "won": 137,
+          "lost": 51
+        },
+        "team": {
+          "name": "Christhorman smells good",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 41,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/41?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 41
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Akashani",
+                "id": 57742103,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 0,
+                "won": 0,
+                "lost": 0
+              },
+              "rating": 1000
+            },
+            {
+              "character": {
+                "name": "Nellzyshock",
+                "id": 57446069,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 11
+                }
+              },
+              "season_match_statistics": {
+                "played": 0,
+                "won": 0,
+                "lost": 0
+              },
+              "rating": 1000
+            }
+          ],
+          "id": 1654410
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 16,
+        "rating": 2616,
+        "season_match_statistics": {
+          "played": 228,
+          "won": 141,
+          "lost": 87
+        },
+        "team": {
+          "name": "yola",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 28,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/28?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 28
+              },
+              "color": {
+                "rgba": {
+                  "r": 242,
+                  "g": 168,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 5,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/5?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 5
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 9,
+                  "g": 9,
+                  "b": 8,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Teenagedream",
+                "id": 58854017,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 3
+                }
+              },
+              "season_match_statistics": {
+                "played": 228,
+                "won": 141,
+                "lost": 87
+              },
+              "rating": 2616
+            },
+            {
+              "character": {
+                "name": "Sliceofham",
+                "id": 58206981,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 3
+                }
+              },
+              "season_match_statistics": {
+                "played": 228,
+                "won": 141,
+                "lost": 87
+              },
+              "rating": 2616
+            }
+          ],
+          "id": 1341070
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 18,
+        "rating": 2612,
+        "season_match_statistics": {
+          "played": 425,
+          "won": 227,
+          "lost": 198
+        },
+        "team": {
+          "name": "dogsittin",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 75,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/75?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 75
+              },
+              "color": {
+                "rgba": {
+                  "r": 11,
+                  "g": 128,
+                  "b": 7,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 30,
+                  "g": 230,
+                  "b": 124,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 224,
+                  "g": 122,
+                  "b": 215,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Dogwalker",
+                "id": 57264495,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 425,
+                "won": 227,
+                "lost": 198
+              },
+              "rating": 2612
+            },
+            {
+              "character": {
+                "name": "Tippytaps",
+                "id": 57272120,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 425,
+                "won": 225,
+                "lost": 200
+              },
+              "rating": 2612
+            }
+          ],
+          "id": 1248066
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 19,
+        "rating": 2611,
+        "season_match_statistics": {
+          "played": 111,
+          "won": 85,
+          "lost": 26
+        },
+        "team": {
+          "name": "Positive Paul",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 28,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/28?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 28
+              },
+              "color": {
+                "rgba": {
+                  "r": 8,
+                  "g": 87,
+                  "b": 232,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 212,
+                  "g": 66,
+                  "b": 130,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 28,
+                  "g": 250,
+                  "b": 71,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Erlanda",
+                "id": 56391468,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                }
+              },
+              "season_match_statistics": {
+                "played": 111,
+                "won": 85,
+                "lost": 26
+              },
+              "rating": 2617
+            }
+          ],
+          "id": 979619
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 19,
+        "rating": 2611,
+        "season_match_statistics": {
+          "played": 197,
+          "won": 137,
+          "lost": 60
+        },
+        "team": {
+          "name": "Jimmy Brooks",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 71,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/71?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 71
+              },
+              "color": {
+                "rgba": {
+                  "r": 97,
+                  "g": 115,
+                  "b": 242,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 5,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/5?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 5
+              },
+              "color": {
+                "rgba": {
+                  "r": 138,
+                  "g": 112,
+                  "b": 43,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 230,
+                  "g": 79,
+                  "b": 237,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Limity",
+                "id": 59322485,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 5
+                }
+              },
+              "season_match_statistics": {
+                "played": 157,
+                "won": 105,
+                "lost": 52
+              },
+              "rating": 2610
+            },
+            {
+              "character": {
+                "name": "Crsthormann",
+                "id": 53630475,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 11
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 6
+                }
+              },
+              "season_match_statistics": {
+                "played": 52,
+                "won": 36,
+                "lost": 16
+              },
+              "rating": 2252
+            }
+          ],
+          "id": 1315241
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 21,
+        "rating": 2610,
+        "season_match_statistics": {
+          "played": 178,
+          "won": 131,
+          "lost": 47
+        },
+        "team": {
+          "name": "The Gopher",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+            },
+            "id": 4647,
+            "slug": "grobbulus"
+          },
+          "crest": {
+            "emblem": {
+              "id": 48,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/48?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 48
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 16,
+                  "b": 194,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 4,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/4?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 4
+              },
+              "color": {
+                "rgba": {
+                  "r": 133,
+                  "g": 0,
+                  "b": 5,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 232,
+                  "g": 225,
+                  "b": 237,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Crèam",
+                "id": 25631108,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+                  },
+                  "id": 4647,
+                  "slug": "grobbulus"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 8
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 7,
+                "won": 4,
+                "lost": 3
+              },
+              "rating": 1384
+            },
+            {
+              "character": {
+                "name": "Onlyplaymage",
+                "id": 48446101,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+                  },
+                  "id": 4647,
+                  "slug": "grobbulus"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 0,
+                "won": 0,
+                "lost": 0
+              },
+              "rating": 1000
+            },
+            {
+              "character": {
+                "name": "Wetdrèam",
+                "id": 17702363,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4647?namespace=dynamic-classic-us"
+                  },
+                  "id": 4647,
+                  "slug": "grobbulus"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 4
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 7,
+                "won": 4,
+                "lost": 3
+              },
+              "rating": 1384
+            }
+          ],
+          "id": 1241245
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 21,
+        "rating": 2610,
+        "season_match_statistics": {
+          "played": 323,
+          "won": 202,
+          "lost": 121
+        },
+        "team": {
+          "name": "clip it and ship it",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 23,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/23?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 23
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 6,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/6?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 6
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 242,
+                  "g": 231,
+                  "b": 241,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Hellofriends",
+                "id": 59077130,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 1
+                }
+              },
+              "season_match_statistics": {
+                "played": 323,
+                "won": 202,
+                "lost": 121
+              },
+              "rating": 2610
+            },
+            {
+              "character": {
+                "name": "Mmrinjecter",
+                "id": 59075345,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 139,
+                "won": 84,
+                "lost": 55
+              },
+              "rating": 2593
+            }
+          ],
+          "id": 1330053
+        }
+      },
+      {
+        "faction": {
+          "type": "ALLIANCE"
+        },
+        "rank": 23,
+        "rating": 2609,
+        "season_match_statistics": {
+          "played": 185,
+          "won": 137,
+          "lost": 48
+        },
+        "team": {
+          "name": "omg so last minute",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+            },
+            "id": 4728,
+            "slug": "benediction"
+          },
+          "crest": {
+            "emblem": {
+              "id": 100,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/100?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 100
+              },
+              "color": {
+                "rgba": {
+                  "r": 50,
+                  "g": 88,
+                  "b": 255,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 5,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/5?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 5
+              },
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Floormatx",
+                "id": 57912098,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4728?namespace=dynamic-classic-us"
+                  },
+                  "id": 4728,
+                  "slug": "benediction"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 7
+                }
+              },
+              "season_match_statistics": {
+                "played": 130,
+                "won": 101,
+                "lost": 29
+              },
+              "rating": 2562
+            }
+          ],
+          "id": 1288058
+        }
+      },
+      {
+        "faction": {
+          "type": "HORDE"
+        },
+        "rank": 24,
+        "rating": 2606,
+        "season_match_statistics": {
+          "played": 354,
+          "won": 217,
+          "lost": 137
+        },
+        "team": {
+          "name": "Zip Zap They go Splat",
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+            },
+            "id": 4408,
+            "slug": "faerlina"
+          },
+          "crest": {
+            "emblem": {
+              "id": 80,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/80?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 80
+              },
+              "color": {
+                "rgba": {
+                  "r": 255,
+                  "g": 6,
+                  "b": 32,
+                  "a": 1
+                }
+              }
+            },
+            "border": {
+              "id": 2,
+              "media": {
+                "key": {
+                  "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/border/2?namespace=static-2.5.4_42686-classic-us"
+                },
+                "id": 2
+              },
+              "color": {
+                "rgba": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 20,
+                  "a": 1
+                }
+              }
+            },
+            "background": {
+              "color": {
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          },
+          "members": [
+            {
+              "character": {
+                "name": "Bcw",
+                "id": 56403674,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 2
+                }
+              },
+              "season_match_statistics": {
+                "played": 354,
+                "won": 217,
+                "lost": 137
+              },
+              "rating": 2606
+            },
+            {
+              "character": {
+                "name": "Rxshaman",
+                "id": 56428447,
+                "realm": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/realm/4408?namespace=dynamic-classic-us"
+                  },
+                  "id": 4408,
+                  "slug": "faerlina"
+                },
+                "playable_class": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-class/0?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 0
+                },
+                "playable_race": {
+                  "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-2.5.4_42686-classic-us"
+                  },
+                  "id": 2
+                }
+              },
+              "season_match_statistics": {
+                "played": 354,
+                "won": 217,
+                "lost": 137
+              },
+              "rating": 2606
+            }
+          ],
+          "id": 991036
+        }
+      }
+    ]
+}
